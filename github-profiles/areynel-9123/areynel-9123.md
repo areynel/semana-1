@@ -45,4 +45,5 @@ Algunos ejemplos de los comandos en Terminal.
 |Item | Alias                      |
 |---- | -------                    |
 | 1.  | alias cl='clear'           |
-| 2.  | alias ls='Listar archivos' |
+| 2.  | alias lis='Listar archivos'|
+| 3.  | alias d='dir'              |
